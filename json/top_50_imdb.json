@@ -1,0 +1,402 @@
+[  
+   {  
+      "date_scraped":null,
+      "name":"The Shawshank Redemption",
+      "rating":"9.2",
+      "rank":"1",
+      "link":"http://www.imdb.com/title/tt0111161/",
+      "year":"1994"
+   },
+   {  
+      "date_scraped":null,
+      "name":"The Godfather",
+      "rating":"9.2",
+      "rank":"2",
+      "link":"http://www.imdb.com/title/tt0068646/",
+      "year":"1972"
+   },
+   {  
+      "date_scraped":null,
+      "name":"The Godfather: Part II",
+      "rating":"9.0",
+      "rank":"3",
+      "link":"http://www.imdb.com/title/tt0071562/",
+      "year":"1974"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Pulp Fiction",
+      "rating":"8.9",
+      "rank":"4",
+      "link":"http://www.imdb.com/title/tt0110912/",
+      "year":"1994"
+   },
+   {  
+      "date_scraped":null,
+      "name":"The Good, the Bad and the Ugly",
+      "rating":"8.9",
+      "rank":"5",
+      "link":"http://www.imdb.com/title/tt0060196/",
+      "year":"1966"
+   },
+   {  
+      "date_scraped":null,
+      "name":"The Dark Knight",
+      "rating":"8.9",
+      "rank":"6",
+      "link":"http://www.imdb.com/title/tt0468569/",
+      "year":"2008"
+   },
+   {  
+      "date_scraped":null,
+      "name":"12 Angry Men",
+      "rating":"8.9",
+      "rank":"7",
+      "link":"http://www.imdb.com/title/tt0050083/",
+      "year":"1957"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Schindler\u0026#x27;s List",
+      "rating":"8.9",
+      "rank":"8",
+      "link":"http://www.imdb.com/title/tt0108052/",
+      "year":"1993"
+   },
+   {  
+      "date_scraped":null,
+      "name":"The Lord of the Rings: The Return of the King",
+      "rating":"8.8",
+      "rank":"9",
+      "link":"http://www.imdb.com/title/tt0167260/",
+      "year":"2003"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Fight Club",
+      "rating":"8.8",
+      "rank":"10",
+      "link":"http://www.imdb.com/title/tt0137523/",
+      "year":"1999"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Star Wars: Episode V - The Empire Strikes Back",
+      "rating":"8.8",
+      "rank":"11",
+      "link":"http://www.imdb.com/title/tt0080684/",
+      "year":"1980"
+   },
+   {  
+      "date_scraped":null,
+      "name":"The Lord of the Rings: The Fellowship of the Ring",
+      "rating":"8.8",
+      "rank":"12",
+      "link":"http://www.imdb.com/title/tt0120737/",
+      "year":"2001"
+   },
+   {  
+      "date_scraped":null,
+      "name":"One Flew Over the Cuckoo\u0026#x27;s Nest",
+      "rating":"8.7",
+      "rank":"13",
+      "link":"http://www.imdb.com/title/tt0073486/",
+      "year":"1975"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Goodfellas",
+      "rating":"8.7",
+      "rank":"14",
+      "link":"http://www.imdb.com/title/tt0099685/",
+      "year":"1990"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Seven Samurai",
+      "rating":"8.7",
+      "rank":"15",
+      "link":"http://www.imdb.com/title/tt0047478/",
+      "year":"1954"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Inception",
+      "rating":"8.7",
+      "rank":"16",
+      "link":"http://www.imdb.com/title/tt1375666/",
+      "year":"2010"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Star Wars: Episode IV - A New Hope",
+      "rating":"8.7",
+      "rank":"17",
+      "link":"http://www.imdb.com/title/tt0076759/",
+      "year":"1977"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Forrest Gump",
+      "rating":"8.7",
+      "rank":"18",
+      "link":"http://www.imdb.com/title/tt0109830/",
+      "year":"1994"
+   },
+   {  
+      "date_scraped":null,
+      "name":"The Matrix",
+      "rating":"8.7",
+      "rank":"19",
+      "link":"http://www.imdb.com/title/tt0133093/",
+      "year":"1999"
+   },
+   {  
+      "date_scraped":null,
+      "name":"The Lord of the Rings: The Two Towers",
+      "rating":"8.7",
+      "rank":"20",
+      "link":"http://www.imdb.com/title/tt0167261/",
+      "year":"2002"
+   },
+   {  
+      "date_scraped":null,
+      "name":"City of God",
+      "rating":"8.6",
+      "rank":"21",
+      "link":"http://www.imdb.com/title/tt0317248/",
+      "year":"2002"
+   },
+   {  
+      "date_scraped":null,
+      "name":"The Silence of the Lambs",
+      "rating":"8.6",
+      "rank":"22",
+      "link":"http://www.imdb.com/title/tt0102926/",
+      "year":"1991"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Se7en",
+      "rating":"8.6",
+      "rank":"23",
+      "link":"http://www.imdb.com/title/tt0114369/",
+      "year":"1995"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Once Upon a Time in the West",
+      "rating":"8.6",
+      "rank":"24",
+      "link":"http://www.imdb.com/title/tt0064116/",
+      "year":"1968"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Casablanca",
+      "rating":"8.6",
+      "rank":"25",
+      "link":"http://www.imdb.com/title/tt0034583/",
+      "year":"1942"
+   },
+   {  
+      "date_scraped":null,
+      "name":"The Usual Suspects",
+      "rating":"8.6",
+      "rank":"26",
+      "link":"http://www.imdb.com/title/tt0114814/",
+      "year":"1995"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Raiders of the Lost Ark",
+      "rating":"8.6",
+      "rank":"27",
+      "link":"http://www.imdb.com/title/tt0082971/",
+      "year":"1981"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Rear Window",
+      "rating":"8.6",
+      "rank":"28",
+      "link":"http://www.imdb.com/title/tt0047396/",
+      "year":"1954"
+   },
+   {  
+      "date_scraped":null,
+      "name":"It\u0026#x27;s a Wonderful Life",
+      "rating":"8.6",
+      "rank":"29",
+      "link":"http://www.imdb.com/title/tt0038650/",
+      "year":"1946"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Psycho",
+      "rating":"8.6",
+      "rank":"30",
+      "link":"http://www.imdb.com/title/tt0054215/",
+      "year":"1960"
+   },
+   {  
+      "date_scraped":null,
+      "name":"L?on",
+      "rating":"8.6",
+      "rank":"31",
+      "link":"http://www.imdb.com/title/tt0110413/",
+      "year":"1994"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Sunset Boulevard",
+      "rating":"8.5",
+      "rank":"32",
+      "link":"http://www.imdb.com/title/tt0043014/",
+      "year":"1950"
+   },
+   {  
+      "date_scraped":null,
+      "name":"American History X",
+      "rating":"8.5",
+      "rank":"33",
+      "link":"http://www.imdb.com/title/tt0120586/",
+      "year":"1998"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Terminator 2: Judgment Day",
+      "rating":"8.5",
+      "rank":"34",
+      "link":"http://www.imdb.com/title/tt0103064/",
+      "year":"1991"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Apocalypse Now",
+      "rating":"8.5",
+      "rank":"35",
+      "link":"http://www.imdb.com/title/tt0078788/",
+      "year":"1979"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Memento",
+      "rating":"8.5",
+      "rank":"36",
+      "link":"http://www.imdb.com/title/tt0209144/",
+      "year":"2000"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Saving Private Ryan",
+      "rating":"8.5",
+      "rank":"37",
+      "link":"http://www.imdb.com/title/tt0120815/",
+      "year":"1998"
+   },
+   {  
+      "date_scraped":null,
+      "name":"City Lights",
+      "rating":"8.5",
+      "rank":"38",
+      "link":"http://www.imdb.com/title/tt0021749/",
+      "year":"1931"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "rating":"8.5",
+      "rank":"39",
+      "link":"http://www.imdb.com/title/tt0057012/",
+      "year":"1964"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Alien",
+      "rating":"8.5",
+      "rank":"40",
+      "link":"http://www.imdb.com/title/tt0078748/",
+      "year":"1979"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Gravity",
+      "rating":"8.5",
+      "rank":"41",
+      "link":"http://www.imdb.com/title/tt1454468/",
+      "year":"2013"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Modern Times",
+      "rating":"8.5",
+      "rank":"42",
+      "link":"http://www.imdb.com/title/tt0027977/",
+      "year":"1936"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Spirited Away",
+      "rating":"8.5",
+      "rank":"43",
+      "link":"http://www.imdb.com/title/tt0245429/",
+      "year":"2001"
+   },
+   {  
+      "date_scraped":null,
+      "name":"North by Northwest",
+      "rating":"8.5",
+      "rank":"44",
+      "link":"http://www.imdb.com/title/tt0053125/",
+      "year":"1959"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Back to the Future",
+      "rating":"8.5",
+      "rank":"45",
+      "link":"http://www.imdb.com/title/tt0088763/",
+      "year":"1985"
+   },
+   {  
+      "date_scraped":null,
+      "name":"The Pianist",
+      "rating":"8.4",
+      "rank":"46",
+      "link":"http://www.imdb.com/title/tt0253474/",
+      "year":"2002"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Citizen Kane",
+      "rating":"8.4",
+      "rank":"47",
+      "link":"http://www.imdb.com/title/tt0033467/",
+      "year":"1941"
+   },
+   {  
+      "date_scraped":null,
+      "name":"Life Is Beautiful",
+      "rating":"8.4",
+      "rank":"48",
+      "link":"http://www.imdb.com/title/tt0118799/",
+      "year":"1997"
+   },
+   {  
+      "date_scraped":null,
+      "name":"M",
+      "rating":"8.4",
+      "rank":"49",
+      "link":"http://www.imdb.com/title/tt0022100/",
+      "year":"1931"
+   },
+   {  
+      "date_scraped":null,
+      "name":"The Shining",
+      "rating":"8.4",
+      "rank":"50",
+      "link":"http://www.imdb.com/title/tt0081505/",
+      "year":"1980"
+   }
+]
