@@ -16,7 +16,7 @@ The stats can be found at:
   - **[original][ref-standings]**
   - [team standings column explanations][exp-standings]
 
-### Batting Column Explanations
+### Batting Columns Explanations
 
 - Rk: Rank (This is a count of the rows from top to bottom.
   It is recalculated following the sorting of a column.)
@@ -63,7 +63,7 @@ The stats can be found at:
       5: Third Base, 6: Short Stop, 7: Left Field, 8: Center Field,
       9: Right Field
 
-### Pitching Column Explanations
+### Pitching Columns Explanations
 
 Rk: Rank
 This is a count of the rows from top to bottom.
@@ -186,7 +186,9 @@ The difference between the actual W-L and Pythagorean W-L.
 [pitching]:      mlb_1948_pitching.csv
 [standings]:     mlb_1948_team_standings.csv
 [ref]:           http://www.baseball-reference.com
-[batting-ref]:   http://www.baseball-reference.com/leagues/MLB/1948-standard-batting.shtml
-[pitching-ref]:  http://www.baseball-reference.com/leagues/MLB/1948-standard-pitching.shtml
-[standings-ref]: http://www.baseball-reference.com/leagues/MLB/1948-standings.shtml
-[exp-batting]:   #batting-column-explanations
+[ref-batting]:   http://www.baseball-reference.com/leagues/MLB/1948-standard-batting.shtml
+[ref-pitching]:  http://www.baseball-reference.com/leagues/MLB/1948-standard-pitching.shtml
+[ref-standings]: http://www.baseball-reference.com/leagues/MLB/1948-standings.shtml
+[exp-batting]:   #batting-columns-explanations
+[exp-pitching]:  #pitching-columns-explanations
+[exp-standings]: #team-standings-columns-explanations
