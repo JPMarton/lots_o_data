@@ -4,7 +4,7 @@ I chose 1948, the first year that an integrated team won the World Series.
 It also just happens that the team was the *[Cleveland Indians][cle]*. Really
 you can get any year at [Baseball-reference.com][ref] for your own use!
 
-- PJ
+ -- PJ
 
 The stats can be found at:
 
