@@ -5393,7 +5393,7 @@ ALTER TABLE countries_languages ADD CONSTRAINT countries_languages_country_code_
 ALTER TABLE cities ADD CONSTRAINT cities_country_code_fkey
     FOREIGN KEY (country_code) REFERENCES countries(code);
 
--- Optimize the tables for speedy quaeries.
+-- Optimize the tables for speedy queries.
 
 ANALYZE countries;
 ANALYZE countries_languages;
